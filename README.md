@@ -24,3 +24,4 @@ Polish UI layout
 Rewrite function Y
 Change theme color
 Update configuration
+Improve logging
