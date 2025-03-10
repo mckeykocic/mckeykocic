@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 Update dependencies
 Remove unused imports
+Improve logging
